@@ -233,6 +233,9 @@ void exibirMenuDeComparacao() {
     int opcao = solicitarOpcao();
 
     switch(opcao) {
+        case 2:
+            printf(populacaoA > populacaoB ? "Carta 1 venceu" : "Carta 2 venceu");
+        break;
         default:
         jogar();
         break;
