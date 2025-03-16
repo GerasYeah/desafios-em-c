@@ -8,5 +8,5 @@ Um simples sistema para cadastrar 2 cartas e comparar os atributos delas
 Um sistema mais completo para o jogo de Super Trunfo com comparação mais avançada
 
 ## Desafio 03: Movimentação de Peças de Xadrez (Nível Mestre)
-
+https://github.com/GerasYeah/desafios-em-c/blob/main/xadrez.c
 ## Desafio 04: Batalha Naval (Nível Mestre)
